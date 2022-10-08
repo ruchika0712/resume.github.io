@@ -1,0 +1,235 @@
+.pagebody{
+ height:1100.43px;
+ position:relative;
+ background:rgba(0,0,0,0.9);
+ }
+ 
+ .container{
+ width: 290px;
+ height:1100.43px;
+ border-radius:15px;
+ border:groove;
+ background-color: purple;
+ opacity:0.7;
+ position:absolute;
+ }
+ #photo{
+  padding :0px 0px ;
+  margin-left:10px;
+  margin-top:20px;
+  width:250px;
+  height:250px;
+  display:center;
+  border-radius: 125px;
+  border: 7px yellow groove;
+  position:absolute;
+ }
+ .head{
+ margin-left:30%;
+ padding-top:18px;
+ color:white;
+ font-size:30px;
+ text-shadow: 0 0 5px white, 0 0 10px purple , 0 0 15px purple;
+ font-family:cursive;
+ }
+ .rectangle{
+ width:400px;
+ 
+ background-color:rgba(0,0,0,0.6);
+ border:5px yellow outset;
+ border-radius:10px;
+  text-align:left;
+ }
+ #first{
+ height:80px;
+ position:absolute;
+ margin-left:300px;
+ margin-top:0px;
+ color:white;
+}
+ #second{
+ height:140px;
+ position:absolute;
+ margin-left:300px;
+ color:white;
+ }
+ .intro{
+ color:yellow;
+ margin-left:305px;
+ margin-bottom:0px;
+ 
+ }
+ .edu{
+ color:yellow;
+ margin-left:305px;
+ margin-top:110px;
+ margin-bottom:0px;
+ 
+ }
+ .project{
+ color:yellow;
+ margin-left:305px;
+ margin-top:167px;
+ margin-bottom:0px;
+ }
+ #third{
+ height:220px;
+ position:absolute;
+ margin-left:300px;
+ color:white;
+ }
+ 
+.contact{
+position:absolute;
+margin-top:290px;
+margin-left:20px;
+color:white;
+}
+.language{
+position:absolute;
+top:48%;
+margin-left:20px;
+color:white;
+}
+#insta{
+color:white;
+text-decoration:none;
+}
+#insta:hover{
+color:yellow;
+text-decoration:underline;
+}
+#linkedin{
+color:white;
+text-decoration:none;
+}
+#linkedin:hover{
+color:yellow;
+text-decoration:underline;
+}
+#git{
+color:white;
+text-decoration:none;
+}
+#git:hover{
+color:yellow;
+text-decoration:underline;
+}
+
+ul.a{
+list-style-type:circle solid;
+}
+
+.circle{
+ position:absolute;
+ margin-top:0px;
+ margin-left:590px;
+ background-color:yellow;
+ opacity:0.7;
+ border-top-left-radius: 650px;
+ border-bottom-left-radius: 650px;
+ width: 25%;
+ height: 65%;
+ top: 10%;
+ left: 27%;
+ }
+.skill{
+position:absolute;
+top:14.5%;
+margin-left:1080px;
+color:purple;
+opacity:1;
+font-size:150%;
+}
+.rect{
+position:absolute;
+width:80px;
+height:50px;
+background-color:purple;
+color:white;
+border-radius:5px;
+text-align:center;
+}
+#html{
+top:21%;
+margin-left:1000px;
+height:25px;
+}
+#CSS{
+top:21%;
+margin-left:1140px;
+height:25px;
+}
+#javas{
+top:25%;
+margin-left:1000px;
+height:25px;
+}
+#dbms{
+top:25%;
+margin-left:1140px;
+height:25px;
+}
+#cc{
+top:29%;
+margin-left:1000px;
+height:25px;
+}
+#c{
+top:29%;
+margin-left:1140px;
+height:25px;
+}
+#oop{
+top:33%;
+margin-left:1000px;
+width:220px;
+height:30px;
+}
+#gd{
+top:37%;
+margin-left:1000px;
+width:220px;
+height:30px;
+}
+
+.interest{
+position:absolute;
+top:39%;
+margin-left:1060px;
+color:purple;
+opacity:1;
+font-size:150%;
+} 
+
+#wd{
+top:45%;
+margin-left:1000px;
+width:220px;
+height:30px;
+}
+#ai{
+top:49%;
+margin-left:1000px;
+width:220px;
+height:30px;
+}
+#ml{
+top:53%;
+margin-left:1000px;
+width:220px;
+height:30px;
+}
+#gdg{
+top:57%;
+margin-left:1000px;
+width:220px;
+height:30px;
+}
+
+#data{
+top:61%;
+margin-left:1000px;
+width:220px;
+height:30px;
+}
