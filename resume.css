@@ -123,7 +123,7 @@ list-style-type:circle solid;
 .circle{
  position:absolute;
  margin-top:0px;
- margin-left:580px;
+ margin-left:590px;
  background-color:yellow;
  opacity:0.7;
  border-top-left-radius: 650px;
@@ -136,7 +136,7 @@ list-style-type:circle solid;
 .skill{
 position:absolute;
 top:14.5%;
-margin-left:1070px;
+margin-left:1080px;
 color:purple;
 opacity:1;
 font-size:150%;
@@ -152,12 +152,12 @@ text-align:center;
 }
 #html{
 top:21%;
-margin-left:990px;
+margin-left:1000px;
 height:25px;
 }
 #CSS{
 top:21%;
-margin-left:1130px;
+margin-left:1140px;
 height:25px;
 }
 #javas{
